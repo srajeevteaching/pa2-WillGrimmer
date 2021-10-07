@@ -1,3 +1,10 @@
+# Programmer: [Will Grimmer]
+# Course: CS701/GB-731, Dr. Rajeev
+# Date: [10/6/2021]
+# Programming Assignment: 2
+# Program Inputs: [Month and Year]
+# Program Outputs: [Days in the given month]
+
 months = [31,28,31,30,31,30,31,31,30,31,30,31]
 month=int(input("please give a number representative of a month from 1-12"))
 year=int(input("please input a year"))
