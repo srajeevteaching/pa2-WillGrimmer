@@ -19,5 +19,5 @@ else:
                     c = 1
             else:
                 c = 1
-    output=months[month-12]+c
+    output=months[month-1]+c
     print("there are %d days in the month" %output)
